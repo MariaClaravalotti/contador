@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <Contador/>
-      <h1>ola meninas</h1>
+     
     </>
   )
 }

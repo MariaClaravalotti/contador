@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+ html {
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+
+ }
+ button{
+    background-color: rgb(223, 158, 158);
+    width: 20vw;
+    height: 20vh;
+    font-size: 5vw;
+ }
+ h2{
+    font-size: 5vw;
+    padding: 5rem;
+   
+    text-align: center;
+    
+   
+    
+ }
+ 
